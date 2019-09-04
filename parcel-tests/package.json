@@ -1,0 +1,7 @@
+{
+  "name": "parcel-tests",
+  "version": "0.0.1",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}

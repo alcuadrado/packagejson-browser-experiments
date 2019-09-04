@@ -1,0 +1,1 @@
+npx browserify -p esmify index.js

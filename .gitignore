@@ -1,0 +1,11 @@
+/webpack-tests/node_modules
+/webpack-tests/*/dist
+
+/parcel-tests/node_modules
+/parcel-tests/*/dist
+/parcel-tests/*/.cache
+
+/rollup-tests/node_modules
+/rollup-tests/*/bundle.js
+
+/browserify-tests/node_modules

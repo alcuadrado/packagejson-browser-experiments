@@ -1,0 +1,9 @@
+{
+  "name": "rollup-tests",
+  "version": "0.0.1",
+  "devDependencies": {
+    "rollup": "^1.20.3",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  }
+}

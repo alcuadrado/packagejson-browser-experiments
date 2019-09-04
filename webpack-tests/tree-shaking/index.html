@@ -1,0 +1,16 @@
+<!doctype html>
+  <html>
+   <head>
+     <title>Test</title>
+   </head>
+   <body>
+     The console should have something this:
+     <code><pre>
+       "/esm/a.js"
+       "/esm/index.js"
+       "a"
+     </pre></code>
+     Tree-shaking may remove the "/esm/index.js" entry.
+    <script src="dist/main.js"></script>
+   </body>
+  </html>
